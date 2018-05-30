@@ -7,15 +7,25 @@ body {
 	color: white;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 300;
+	align-items: center;
 }
 
 h1 {
 	font-size: 3em;
-	color: #e8c547;
+	color: #ffb400;
 	font-weight: 700;
 }
 
-div {
+h2 {
+	color: #cdd1c4;
+	font-weight: 500;
+}
+
+h4 {
+	font-size: 2em;
+}
+
+.videoBox {
 	width: 640px;
 	max-height: 580px;
 	display: inline-block;
